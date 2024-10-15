@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently in **third year**
 
-- 🌱 I’m currently learning **Python, Java, PostgreSQL** and other technologies
+- 🌱 I’m currently learning **Python, Java, Spring Boot, PostgreSQL, MySQL** and other technologies
 
 - 🦊 I’m looking to **develop my abilities** and **continue learning**
 
@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </div>
 
 ---
