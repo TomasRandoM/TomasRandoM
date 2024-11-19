@@ -30,12 +30,15 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
 ---
 
 <p align= "center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasRandoM&layout=compact&langs_count=8&hide=html" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasRandoM&layout=compact&langs_count=8&hide=html,javascript" />
 </p>
 
 ------
