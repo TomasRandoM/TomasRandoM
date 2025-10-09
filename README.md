@@ -33,12 +33,13 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
 ---
 
 <p align= "center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasRandoM&layout=compact&langs_count=8&hide=html,javascript" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasRandoM&layout=compact&langs_count=8&hide=html,javascript,jupyter%20notebook" />
 </p>
 
 ------
