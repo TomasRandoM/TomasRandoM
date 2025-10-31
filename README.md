@@ -10,7 +10,8 @@
 - 📫 How to reach me: **tomasrando@gmail.com**
 
 - ⚡ What I like to do: **I like to play videogames, listen to music, learn new things and code**
-  
+
+- 🌐 My Portfolio [tomasrando.dev](https://tomasrando.dev)
 ---
 
 <h3 align="center">Connect with me:</h3>
