@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Tomás <img height="40" src="https://cdn3.emoji.gg/emojis/4220-fox-sip.png"></h1>
-<h3 align="center">A Computer Science student from the National University of Cuyo in Argentina.</h3>
+<h3 align="center">A Computer Science student at the National University of Cuyo in Argentina.</h3>
 
-- 🔭 I’m currently in **fourth year**
+- 🔭 I’m currently in my **fifth and final year**
 
 - 🌱 I’m currently learning **Python, Java, Spring Boot, PostgreSQL, MySQL** and other technologies
 
