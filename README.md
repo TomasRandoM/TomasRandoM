@@ -40,7 +40,7 @@
 ---
 
 <p align= "center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasRandoM&layout=compact&langs_count=8&hide=html,javascript,jupyter%20notebook" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TomasRandoM&theme=tokyonight&hide_border=false" height="182" />
 </p>
 
 ------
